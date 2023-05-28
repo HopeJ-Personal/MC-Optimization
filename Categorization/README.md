@@ -15,8 +15,8 @@
 # Sub-Type Categories
 | Logo | Type | Title | Description | Total Mods |
 |-|-|-|-|-|
-| stsc_a | Audiovisual | Animations & Physics | Mods which add or modify animations or physics. | a |
-| stsc_a | Audiovisual | Lighting & Weather | Mods which add or modify lighting or weather. | a |
+| stc_a | Audiovisual | Animations & Physics | Mods which add or modify animations or physics. | a |
+| stc_a | Audiovisual | Lighting & Weather | Mods which add or modify lighting or weather. | a |
 | stc_a | Audiovisual | Models & Textures | Mods which provide models, textures, or shaders. | a |
 | stc_a | Audiovisual | Post-processing | Mods which perform post processing or include a post-processing preset. | a |
 | stc_a | Audiovisual | Sounds & Music | Mods which add or modify sounds or music. | a |
